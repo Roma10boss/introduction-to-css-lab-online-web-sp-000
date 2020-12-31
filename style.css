@@ -1,5 +1,7 @@
 /* Tag selector to select the 'body' element */
- background-color: #00b3e6;
+ body {
+  /* Your code here! */
+  background-color: #00b3e6;
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
@@ -23,4 +25,3 @@ div {
 .perspective-questions {
   /* Your code here! */
   font-style: italic;
-}
