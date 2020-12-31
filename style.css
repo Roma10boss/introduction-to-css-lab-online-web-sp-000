@@ -18,7 +18,8 @@ div {
 main-header {
   /* Your code here! */
   
-  font-size: 22px;color:red;
+  font-size: 22px;
+  color:red;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
